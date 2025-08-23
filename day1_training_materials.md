@@ -30,10 +30,10 @@ Setelah menyelesaikan Hari 1, peserta akan mampu:
 1. **Weak Methodology (35% kasus)**
    ```
    ❌ Common Problems:
-   - Sample size tidak adequate (power analysis missing)
-   - Statistical tests inappropriate untuk data type
-   - Confounding variables tidak dikontrol
-   - Missing data handling inadequate
+   - Sample size tidak memadai (power analysis missing)
+   - Statistical tests tidak cocok untuk data type
+   - Variabel yang membingungkan tidak dikontrol
+   - Missing data tidak ditangani
    
    ✅ AI-Enhanced Solutions:
    - Power analysis menggunakan G*Power + AI interpretation
