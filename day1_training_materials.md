@@ -81,25 +81,6 @@ Setelah menyelesaikan Hari 1, peserta akan mampu:
 | **Q3** | 0.5-1.5 | Basic requirements | Basic AI integration |
 | **Q4** | <0.5 | Minimal standards | Optional AI use |
 
-#### **💡 Interactive Exercise 1A (15 menit):**
-**"Manuscript Diagnosis Challenge"**
-
-Peserta diberikan 3 abstracts dari rejected papers dan harus:
-1. Identify methodology weaknesses
-2. Suggest AI-assisted improvements
-3. Predict likely journal tier after improvement
-
-**Contoh Abstract untuk Analisis:**
-```
-Title: "The Effect of Online Learning on Student Performance"
-
-Abstract: "This study examined 100 students from one university. 
-We compared grades before and after online learning implementation. 
-Results showed significant improvement (p<0.05). Online learning 
-is effective for improving student performance."
-
-TASK: Identify 5+ major weaknesses and suggest improvements.
-```
 
 ### **Part 2: Publication Standards Analysis (45 menit)**
 
@@ -144,19 +125,6 @@ TASK: Identify 5+ major weaknesses and suggest improvements.
 ❌ Results misinterpretation
 ```
 
-#### **💡 Interactive Exercise 1B (30 menit):**
-**"Journal Standards Comparison"**
-
-Peserta dalam kelompok menganalisis reviewer comments dari:
-- 1 Q1 journal rejection
-- 1 Q2 journal acceptance with major revision
-- 1 Q3 journal acceptance
-
-**Analysis Framework:**
-1. What methodology concerns were raised?
-2. How do standards differ across tiers?
-3. Which issues could AI have prevented?
-4. What improvements would elevate the work?
 
 ### **Part 3: Case Study Analysis (30 menit)**
 
