@@ -908,26 +908,188 @@ Provide:
 4. Develop competitive advantage strategy
 
 ---
+### **SESSION 1D (tambahan): AI-ASSISTED PROBLEM DIAGNOSIS**
+**🕐 Durasi: 2.5 Jam (16:00-18:30) - EXTENDED +30 minutes**
 
-## **📝 ASSESSMENT RUBRIC**
+#### **🆕 NEW Part 1: Master Prompt Library Workshop (45 menit)**
+**"From AI User to AI Research Director"**
 
-### **Knowledge Assessment (40%)**
-- Methodology evaluation accuracy
-- Statistical concept understanding
-- AI tool utilization effectiveness
-- Research design improvement quality
+##### **A. Framework Introduction & Practice (20 menit):**
 
-### **Practical Skills (40%)**
-- R implementation proficiency
-- Data quality assessment completion
-- Effect size calculation accuracy
-- Problem-solving approach
+**Live Demonstration - Methodology Assessment:**
+```
+INSTRUCTOR DEMO:
+"Watch me direct AI as a Research Director, not just ask questions"
 
-### **Critical Thinking (20%)**
-- Gap identification sophistication
-- Innovation in solution proposals
-- Integration of AI insights
-- Peer feedback quality
+WEAK APPROACH (AI User):
+"Help me analyze my data"
+
+STRONG APPROACH (AI Research Director):
+SYSTEM ROLE: "You are a senior research methodologist with 20+ years 
+of experience reviewing manuscripts for Q1 journals. You specialize in 
+identifying methodological weaknesses that lead to rejection."
+
+RESEARCH CONTEXT:
+- Discipline: [Participant's field]
+- Research Question: [Specific question]
+- Study Type: [Design type]
+- Sample: [Characteristics]
+- Analysis Plan: [Current approach]
+
+ASSESSMENT FRAMEWORK:
+1. DESIGN EVALUATION: Is this appropriate for the research question?
+2. SAMPLING ANALYSIS: Are there selection bias concerns?  
+3. STATISTICAL VALIDATION: Are planned analyses suitable?
+4. PUBLICATION READINESS: What would Q1 reviewers criticize?
+
+Please provide specific, actionable recommendations for publication success.
+```
+
+##### **B. Hands-On Practice Session (25 menit):**
+
+**Individual Workshop:**
+```
+TASK: "Transform Your Research with AI Direction"
+
+STEP 1: Participant brings their current research project
+STEP 2: Use provided master prompt template for methodology assessment
+STEP 3: Practice iterative prompt refinement based on AI responses
+STEP 4: Share one key insight gained from AI consultation
+
+SUCCESS CRITERIA:
+✅ Participant can formulate strategic research prompts
+✅ Demonstrates prompt refinement based on AI feedback
+✅ Identifies specific methodology improvements
+✅ Shows shift from "AI user" to "AI director" mindset
+```
+
+#### **🔄 REVISED Part 2: Cross-Disciplinary Prompt Adaptation (30 menit)**
+
+##### **A. Disciplinary Specialization Practice (15 menit):**
+
+**Business Research AI Director:**
+```
+SPECIALIZED PROMPT ADDITION:
+"Additionally consider for business research:
+- Stakeholder impact analysis requirements
+- Practical business significance thresholds  
+- ROI and cost-benefit considerations
+- Market research vs organizational research norms
+- Regulatory compliance considerations
+- Scalability for business implementation"
+```
+
+**Engineering Research AI Director:**
+```
+SPECIALIZED PROMPT ADDITION:
+"Additionally consider for engineering research:
+- Technical performance metrics and standards
+- Reliability and validity in engineering contexts
+- Safety and quality control requirements
+- Industry standards and regulatory compliance  
+- Technical innovation vs incremental improvement
+- Scalability and implementation feasibility"
+```
+
+**Health Research AI Director:**
+```
+SPECIALIZED PROMPT ADDITION:
+"Additionally consider for health research:
+- Clinical significance vs statistical significance
+- Patient safety and ethical considerations
+- Regulatory requirements (FDA, IRB, clinical guidelines)
+- Healthcare delivery and implementation science
+- Cost-effectiveness and health economics
+- Translation from research to practice"
+```
+
+##### **B. Cross-Disciplinary Workshop (15 menit):**
+
+**Group Exercise:**
+```
+CHALLENGE: "The Adaptation Expert"
+1. Form groups by discipline (Business/Engineering/Health/Social Science)
+2. Each group adapts master methodology prompt for their field
+3. Test adapted prompts with AI consultation
+4. Present field-specific insights to other groups
+5. Build cross-disciplinary prompt library together
+
+DELIVERABLE: Disciplinary-adapted master prompt ready for use
+```
+
+#### **🆕 NEW Part 3: Iterative AI Refinement Mastery (30 menit)**
+
+##### **A. Prompt Evolution Strategy (15 menit):**
+
+**The Refinement Cycle:**
+```
+INITIAL PROMPT → AI RESPONSE → ANALYSIS → REFINED PROMPT → BETTER RESPONSE
+
+REFINEMENT STRATEGIES:
+1. SPECIFICITY INCREASE:
+   - Add context details
+   - Include constraints  
+   - Specify output format
+
+2. ROLE ENHANCEMENT:
+   - Strengthen system role definition
+   - Add expertise specifications
+   - Include perspective requirements
+
+3. FRAMEWORK DEEPENING:
+   - Add assessment criteria
+   - Include decision frameworks
+   - Specify evaluation standards
+
+4. OUTCOME OPTIMIZATION:
+   - Define success metrics
+   - Add quality checkpoints
+   - Include validation requirements
+```
+
+##### **B. Live Refinement Practice (15 menit):**
+
+**Real-Time Workshop:**
+```
+EXERCISE: "The Prompt Evolution Challenge"
+
+Round 1: Use basic research question with AI
+Round 2: Apply refinement strategies and compare results  
+Round 3: Cross-validate improvements with peer feedback
+
+ASSESSMENT:
+- Quality improvement in AI responses
+- Specificity increase in recommendations
+- Actionability enhancement in outputs
+- Publication relevance improvement
+```
+
+#### **🆕 NEW Part 4: AI Research Director Mindset Assessment (15 menit)**
+
+##### **Transformation Checkpoint:**
+```
+SELF-ASSESSMENT FRAMEWORK:
+
+BEFORE (AI User Mindset):
+❌ "I ask AI to help with my analysis"
+❌ "I hope AI gives me the right answer"  
+❌ "I accept whatever AI provides"
+❌ "I use AI like Google search"
+
+AFTER (AI Research Director Mindset):
+✅ "I direct AI as my research consultant"
+✅ "I guide AI toward specific expertise I need"
+✅ "I validate and refine AI recommendations"  
+✅ "I use AI as strategic research partner"
+
+COMPETENCY CHECKLIST:
+□ Can formulate strategic research prompts
+□ Understands system role importance
+□ Practices iterative prompt refinement
+□ Validates AI outputs with domain knowledge
+□ Adapts prompts for disciplinary context
+□ Focuses on publication-ready outcomes
+```
 
 ---
 
@@ -962,16 +1124,4 @@ Provide:
 3. **Statistical Rigor:** Emphasis on effect sizes, confidence intervals, and practical significance
 4. **Reproducibility:** Document all decisions and analysis steps
 
-### **Tomorrow's Preview:**
-- Advanced descriptive analysis techniques
-- Publication-quality visualization
-- Multilevel data structure understanding
-- Comprehensive reporting standards
-
-### **Homework Assignment:**
-1. Apply data quality assessment to your own dataset
-2. Use AI to evaluate your current research methodology
-3. Calculate effect sizes for any existing analyses
-4. Prepare your dataset for tomorrow's advanced analysis session
-
-**READY FOR DAY 2: ADVANCED STATISTICAL FRAMEWORK!** 🚀
+---
