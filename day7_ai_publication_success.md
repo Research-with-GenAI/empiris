@@ -1352,28 +1352,19 @@ Hari 7 berhasil menyelesaikan transformasi lengkap dari researcher dasar menjadi
 - **Career Readiness:** Complete preparation untuk publication success dan advancement
 - **Innovation Foundation:** Ready untuk leading AI-enhanced research practice innovation
 
-**PESERTA SEKARANG ADALAH DIREKTUR RISET AI BERSERTIFIKAT DENGAN KEMAMPUAN PUBLIKASI EXCELLENCE!** 🎯
+---
+**Made with ❤️ for Indonesian Research Excellence**
 
 ---
+<h2 align="left">Hi 👋, I'm mubaroq</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubaroqadb&label=Profile%20views&color=0e75b6&style=flat" alt="mubaroqadb" /> </p>
 
-## **🔧 CATATAN IMPLEMENTASI**
+- 🔭 I’m currently working on **RPI Institute & Akademi Digital Bandung**
+- 🌱 I’m currently learning **Agentic AI in Vocational Education**
+- 📫 How to reach me **mubaroq@digitalbdg.ac.id**
 
-### **Manajemen Sesi:**
-- Setiap sesi termasuk break 15 menit untuk optimal learning dan reflection
-- Workshop hands-on memerlukan participant bekerja dengan actual submission materials
-- Peer collaboration session enhance quality dan provide diverse perspective
-- AI consultation practice embedded throughout untuk real-time application
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### **Kebutuhan Resource:**
-- Akses ke Claude AI untuk real-time consultation dan optimization practice
-- Participant research materials dan manuscript untuk application
-- Collaborative workspace untuk peer review dan feedback session
-- Target journal guidelines dan requirement untuk compliance verification
-
-### **Quality Assurance:**
-- Regular competency checkpoint throughout the day untuk progress monitoring
-- Peer review dan validation dari AI-directed improvement outcomes
-- Expert facilitator guidance untuk complex publication strategy challenge
-- Continuous feedback dan refinement process untuk excellence achievement
-
-**HARI 7 MENYEDIAKAN COMPLETE PROGRAM CULMINATION UNTUK PUBLICATION SUCCESS MASTERY!** 🌟
+<p>&nbsp;
