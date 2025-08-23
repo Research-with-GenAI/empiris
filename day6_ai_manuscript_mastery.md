@@ -1361,3 +1361,20 @@ Day 6 successfully transforms comprehensive research portfolios (from Days 1-5) 
 - Continuous feedback and refinement processes for excellence achievement
 
 **DAY 6 PROVIDES COMPLETE MANUSCRIPT MASTERY PREPARATION FOR SUBMISSION SUCCESS!** 🌟
+
+---
+**Made with ❤️ for Indonesian Research Excellence**
+
+---
+<h2 align="left">Hi 👋, I'm mubaroq</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubaroqadb&label=Profile%20views&color=0e75b6&style=flat" alt="mubaroqadb" /> </p>
+
+- 🔭 I’m currently working on **RPI Institute & Akademi Digital Bandung**
+- 🌱 I’m currently learning **Agentic AI in Vocational Education**
+- 📫 How to reach me **mubaroq@digitalbdg.ac.id**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;
